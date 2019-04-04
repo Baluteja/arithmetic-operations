@@ -1,0 +1,23 @@
+{
+  "name": "sample-arithmetic-operations",
+  "version": "1.0.0",
+  "description": "Testing of publishing a package in npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baluteja/arithmetic-operations.git"
+  },
+  "keywords": [
+    "balu-arithmetic",
+    "sample-uxr-package"
+  ],
+  "author": "Balu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baluteja/arithmetic-operations/issues"
+  },
+  "homepage": "https://github.com/Baluteja/arithmetic-operations#readme"
+}
