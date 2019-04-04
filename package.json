@@ -1,6 +1,6 @@
 {
   "name": "sample-arithmetic-operations",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Testing of publishing a package in npm",
   "main": "index.js",
   "scripts": {
